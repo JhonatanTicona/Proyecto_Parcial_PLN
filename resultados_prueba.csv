@@ -1,0 +1,5 @@
+Representación,Clasificador,Accuracy,Precisión macro,Recall macro,F1 macro
+BoW,Naive Bayes,0.5417,0.654,0.5417,0.4986
+TF-IDF,Naive Bayes,0.4167,0.3889,0.4167,0.3783
+BoW,SVM,0.5833,0.5833,0.5833,0.5833
+TF-IDF,SVM,0.5833,0.5481,0.5833,0.5557

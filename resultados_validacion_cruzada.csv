@@ -1,0 +1,5 @@
+Representación,Clasificador,Accuracy (media),Accuracy (desv.),F1 macro (media),F1 macro (desv.)
+BoW,Naive Bayes,0.62,0.0776,0.5881,0.0912
+TF-IDF,Naive Bayes,0.5583,0.085,0.5267,0.0963
+BoW,SVM,0.735,0.0525,0.7278,0.0557
+TF-IDF,SVM,0.6717,0.067,0.6616,0.0702

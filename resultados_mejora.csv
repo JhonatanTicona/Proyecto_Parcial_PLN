@@ -1,0 +1,7 @@
+Modelo,Acc CV,Desv.,F1 CV,Acc prueba,Aciertos en 5 nuevos
+BoW + SVM (base),0.735,0.0525,0.7278,0.5833,4
+"BoW + SVM, con stop words",0.7517,0.0606,0.7429,0.625,4
+TF-IDF + SVM (base),0.6717,0.067,0.6616,0.5833,4
+"TF-IDF + SVM, con stop words",0.715,0.0585,0.706,0.625,5
+TF-IDF 1-2 gramas + SVM,0.635,0.0793,0.6188,0.5,4
+TF-IDF 1-2 gramas + NB,0.5367,0.0819,0.5033,0.375,5
